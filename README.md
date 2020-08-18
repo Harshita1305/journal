@@ -1,0 +1,2 @@
+# journal
+basic daily journal
